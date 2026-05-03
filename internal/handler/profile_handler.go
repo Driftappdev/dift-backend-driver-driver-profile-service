@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	response "github.com/driftappdev/libpackage/contracts/response"
+	response "github.com/PlatformCore/engine-core/core/contracts/response"
 
 	"dift_backend_driver/driver-profile-service/internal/dto"
 	"dift_backend_driver/driver-profile-service/internal/service"
